@@ -8,4 +8,8 @@ Random forest Algorithms, Logistic Regression, Decision Tree and few more Algori
 
 One of the Classic and Best project ! 
 
-## Shoot me Mail at vatshayan007@gmail.com (Contact me for Research Papers, PPT, Summary sheets  Codes)
+Python programming and with Great accuracy and predication.
+
+## Shoot me Mail at vatshayan007@gmail.com (Contact me for Research Papers, PPT, Summary sheets and Codes)
+### Feel free to mail me ! 
+Let's Learn, Work and Grow together !!
